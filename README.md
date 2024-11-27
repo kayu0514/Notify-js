@@ -2,6 +2,12 @@
 
 Line Notfyの送信などをjavascriptでまとめてみた
 
+## ライブラリ
+```
+npm install qs
+npm install axios
+```
+
 ## Function
 - SendMessage
 - checkToken

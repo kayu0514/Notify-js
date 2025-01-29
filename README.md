@@ -30,7 +30,3 @@ const notify = new Notify("you token");
 const message = "Hi, I am kayu0514 :)";
 await notify.SendMessage(message, false);
 ```
-
-## Author
-
-* Yuu
